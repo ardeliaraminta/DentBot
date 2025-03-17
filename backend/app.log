@@ -1,0 +1,93 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 112-650-413
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 451-876-024
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 451-876-024
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 451-876-024
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 23:23:21] "OPTIONS /ask HTTP/1.1" 200 -
+ERROR:root:An error occurred: 'intents'
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2024 23:23:22] "[35m[1mPOST /ask HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 451-876-024
+INFO:werkzeug: * Detected change in 'E:\\Github Desktop\\final-dentbot\\backend\\api.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 451-876-024
+INFO:werkzeug: * Detected change in 'E:\\Github Desktop\\final-dentbot\\backend\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 451-876-024
+INFO:werkzeug: * Detected change in 'E:\\Github Desktop\\final-dentbot\\backend\\test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 451-876-024
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 451-876-024
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 451-876-024
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2024 00:28:24] "OPTIONS /ask HTTP/1.1" 200 -
+ERROR:root:An error occurred: 'intents'
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2024 00:28:24] "[35m[1mPOST /ask HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2024 00:28:33] "OPTIONS /ask HTTP/1.1" 200 -
+ERROR:root:An error occurred: 'intents'
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2024 00:28:33] "[35m[1mPOST /ask HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 451-876-024
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2024 00:31:06] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Apr/2024 00:31:07] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 451-876-024
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 21:30:21] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 21:30:21] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 21:30:27] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 21:30:27] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 21:30:31] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 21:30:36] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 21:30:36] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 21:30:42] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 21:30:43] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 21:30:50] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 21:30:51] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 21:30:58] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 21:30:59] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 21:31:02] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 21:31:07] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2024 21:31:07] "POST /ask HTTP/1.1" 200 -
