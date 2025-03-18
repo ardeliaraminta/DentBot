@@ -1,0 +1,139 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+}
+
+.chat-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    padding: 20px;
+}
+
+.chat-box {
+    width: 100%;
+    max-width: 1100px;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #B9D9EB;
+    padding: 20px;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.message-container {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+.bot-info {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start; /* Align items to the left */
+    margin-bottom: 8px;
+}
+
+.bot-profile-image {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 8px; /* Adjusted margin between profile image and bot name */
+}
+
+.bot-name {
+    font-weight: bold;
+}
+
+.user-info {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end; /* Align user info to the right */
+    margin-bottom: 8px;
+    margin-left: auto; /* Push user info to the right */
+}
+
+.user-profile-image {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 8px;
+    margin-left: 10px; /* Adjusted margin between profile image and user name */
+}
+
+.user-name {
+    font-weight: bold;
+}
+
+.user-input-form {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    max-width: 800px; /* Limit the width of the input form */
+    margin-top: 20px;
+}
+
+.user-input-form input {
+    flex: 1;
+    padding: 14px; /* Reduce padding for input field */
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    font-size: 16px;
+    outline: none;
+}
+
+.user-input-form button {
+    padding: 12px 18px; /* Reduce padding for button */
+    border: none;
+    border-radius: 8px;
+    background-color: #8b47a0;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    margin-left: 8px;
+}
+
+.user-input-form button:hover {
+    background-color: #aa75b9;
+}
+
+.yes-button {
+    background-color: rgb(46, 105, 46);
+    color: white;
+    border: none;
+    padding: 10px 
+}
+
+.no-button {
+    background-color: rgb(97, 38, 38);
+    color: white;
+    border: none;
+    padding: 10px 
+}
+
+/* Styling for bot message bubble */
+.bot-message {
+    background-color: #283b6e;
+    color: white;
+    align-self: flex-start;
+    border-radius: 12px;
+    padding: 12px;
+    margin-bottom: 5px;
+    max-width: 70%;
+    word-wrap: break-word;
+}
+
+/* Styling for user message bubble */
+.user-message {
+    background-color: #8b47a0; /* Blue color for user messages */
+    color: white;
+    align-self: flex-end;
+    border-radius: 12px;
+    padding: 12px;
+    max-width: 70%;
+    word-wrap: break-word;
+}

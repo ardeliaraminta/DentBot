@@ -1,0 +1,360 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-195-543
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:07:24] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:07:24] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:07:34] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:07:34] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:07:40] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:07:41] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:08:05] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:08:05] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:08:18] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:08:18] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:08:36] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:08:37] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:09:45] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:09:45] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:09:53] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:09:53] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:10:33] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:10:34] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:10:38] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:10:39] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:10:56] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:10:57] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:11:08] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:11:08] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:11:12] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:13:02] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:13:03] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-195-543
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:22:57] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:22:58] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:23:17] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:23:17] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:23:20] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 499-744-595
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:26:33] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:26:34] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-195-543
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:29:53] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:29:54] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:30:16] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:30:17] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'e:\\Github Desktop\\dentbot\\backend\\demo copy.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-195-543
+INFO:werkzeug: * Detected change in 'e:\\Github Desktop\\dentbot\\backend\\demo copy.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-195-543
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-195-543
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:33:01] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:33:01] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:33:04] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:33:06] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-195-543
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:34:33] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:34:33] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:34:41] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:34:41] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:34:50] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:34:50] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:36:06] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:36:07] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-195-543
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:38:10] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 01:38:10] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-195-543
+INFO:werkzeug: * Detected change in 'e:\\Github Desktop\\dentbot\\backend\\demo copy.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-195-543
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 02:01:07] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 02:01:07] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 02:01:13] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 02:01:13] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'e:\\Github Desktop\\dentbot\\backend\\demo.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-195-543
+INFO:werkzeug: * Detected change in 'e:\\Github Desktop\\dentbot\\backend\\demo copy.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-195-543
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 02:03:02] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 02:03:02] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'e:\\Github Desktop\\dentbot\\backend\\demo2.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-195-543
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 02:06:13] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 02:06:13] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 02:31:10] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 02:31:11] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 02:31:12] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 02:31:20] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 02:31:21] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 02:31:25] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 02:31:30] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 02:31:30] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 02:31:35] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 02:31:35] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 02:31:37] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 02:31:43] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 02:31:43] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 02:31:58] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 02:31:58] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 02:32:01] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 02:32:03] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-195-543
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 07:48:48] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 07:48:48] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 07:48:48] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 07:48:48] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 07:48:48] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 07:49:29] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 07:49:30] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 07:49:32] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 07:50:12] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 07:50:12] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 07:50:21] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 07:50:21] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 07:50:32] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 07:50:32] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 07:50:44] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 07:50:44] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 07:50:47] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 07:51:25] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 07:51:25] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 07:51:29] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 07:51:38] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 07:51:38] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 07:51:53] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 07:51:53] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 07:52:09] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 07:52:10] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 07:52:13] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 07:53:28] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 07:53:28] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 07:53:30] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 07:53:46] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 07:53:46] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2024 07:53:50] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-195-543
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2024 09:07:01] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2024 09:07:01] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2024 09:07:08] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2024 09:07:08] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2024 09:08:43] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2024 09:08:43] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2024 09:08:58] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2024 09:08:59] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2024 09:09:00] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2024 09:09:22] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2024 09:09:22] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2024 09:09:24] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2024 09:11:48] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2024 09:11:49] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2024 09:11:54] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2024 09:11:54] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Jun/2024 09:11:56] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-195-543
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:37:52] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:37:53] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:38:00] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:38:00] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:38:07] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:38:07] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:38:13] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:38:13] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'e:\\Github Desktop\\dentbot\\backend\\demo copy.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-195-543
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:39:38] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:39:38] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:39:45] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:39:46] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:39:49] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:39:51] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'e:\\Github Desktop\\dentbot\\backend\\demo copy.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-195-543
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:40:09] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:40:09] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:40:11] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:40:39] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:40:40] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:40:40] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:40:40] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:40:51] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:40:52] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:40:59] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:40:59] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:41:19] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:41:19] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:41:20] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:41:25] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:41:25] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:41:25] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:41:30] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:41:31] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:41:39] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:41:39] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:42:33] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:42:33] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:42:41] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:42:42] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:42:57] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:42:57] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:43:27] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:43:27] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:43:45] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:43:45] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:43:47] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:43:58] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:43:59] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:44:01] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:44:20] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:44:21] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:44:22] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:45:20] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:45:20] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:45:27] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:45:27] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:45:41] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:45:41] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:45:52] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:45:53] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:46:01] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:46:01] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:46:07] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:46:08] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:46:15] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:46:15] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:46:34] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:46:35] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:46:39] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:46:40] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:47:07] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:47:07] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:47:19] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:47:19] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:47:28] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:47:28] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:47:44] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:47:44] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:48:09] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:48:09] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:56:03] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:56:03] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:56:12] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:56:12] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:56:14] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:56:22] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:56:23] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:56:24] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:56:31] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:56:31] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:56:36] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:56:37] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:56:44] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:56:44] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:56:53] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:56:53] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:56:56] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:57:06] "OPTIONS /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:57:06] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Jul/2024 06:57:09] "POST /ask HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-195-543
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-195-543
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-195-543
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-195-543
+INFO:werkzeug:127.0.0.1 - - [17/Mar/2025 14:09:00] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [17/Mar/2025 14:09:00] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Mar/2025 14:09:00] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Mar/2025 14:09:00] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Mar/2025 14:09:01] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 780-195-543
